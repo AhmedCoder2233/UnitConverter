@@ -12,8 +12,7 @@ dark_style = """
     <style>
     body, .stApp {
         background-color: black !important;
-        color: white !important;
-    }
+                }
     .stTextInput, .stNumberInput, .stSelectbox, .stButton {
         background-color: #222 !important;
         color: white !important;
